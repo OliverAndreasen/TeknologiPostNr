@@ -8,11 +8,7 @@ public class City {
         this.name = name;
         this.zipCode = zipCode;
     }
-
-    public String getName() {
-        return name;
-    }
-
+    
     public int getZipCode() {
         return zipCode;
     }
